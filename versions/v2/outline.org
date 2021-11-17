@@ -1,0 +1,42 @@
+#+TITLE: Outline for LADEOS v2
+
+* kernel
++ [X] change name to ladeOS
+
+* interface
++ [X] custom MOTD
++ [X] change hostname
+* users
++ [X] general user
+  + [X] velo
+  + [X] olev
+
+* files
++ [X] Lade
+  + [X] lade installer
+
+* packages
++ [ ] Emulators
+  + [ ] fish
++ [ ] Java
+  + [ ] jre-openjdk
+  + [ ] jdk-openjdk
++ [ ] WM
+  + [ ] xorg
+  + [ ] xorg-server
+  + [ ] lightdm
+  + [ ] lightdm-gtk-greeter
+  + [ ] xmonad
+  + [ ] xmonad-contrib
+  + [ ] xmobar
+  + [ ] dmenu
+  + [ ] picom
+  + [ ] nitrogen
+  + [ ] firefox
++ [ ] Misc
+  + [ ] vim
+  + [ ] git
++ [ ] Files
+  + [ ] tree
+
+

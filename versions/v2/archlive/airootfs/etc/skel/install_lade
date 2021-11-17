@@ -1,0 +1,2 @@
+sudo cp ./lade /bin/lade
+chmod +x /bin/lade
