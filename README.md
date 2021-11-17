@@ -1,2 +1,2 @@
 # LADEos
-You can now download the v3 .iso in out first pre-release!
+You can now download the v3 .iso in our first pre-release!
